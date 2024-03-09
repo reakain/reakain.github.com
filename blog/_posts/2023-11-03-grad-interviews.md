@@ -18,7 +18,7 @@ So, these are… broadly about the same as at a job interview. However, what mak
 
 That second one is the big one, because they anticipate more or less that students will come into the program lacking in the majority of necessary skills to succeed in research. What they want to see is that you have the willingness to pick up and chase a research question or push a project without them needing to drag you through the process like a cat on a leash.
 
-![Cat on a leash dragged across floor](https://giphy.com/embed/WAmzFl5P9XyGQ)
+![Cat on a leash dragged across floor](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR4emtrbDRvYW85d2llMDg3MW5yYmFsOTh3Y3RwMTAwM3Z1OGM5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WAmzFl5P9XyGQ/giphy.gif)
 
 And, in even more wiggly terms, that you have the right type of mindset to perform research. (Yes that is vague, no I will not elaborate.)
 
