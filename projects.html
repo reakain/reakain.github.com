@@ -6,7 +6,7 @@ title: "Projects"
 <section class="content">
   <h1>Projects</h1>
   <ul class="listing">
-    {% for post in projects %}
+    {% for post in "projects" %}
       {% unless post.draft %}
       <li>
         <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
