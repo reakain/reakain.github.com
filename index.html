@@ -1,17 +1,11 @@
 ---
 layout: layout
-title: "Posts"
+title: "About"
 ---
 
+<!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
 <section class="content">
   <h1>{{ site.name }}</h1>
-  <ul class="listing">
-    {% for post in site.posts %}
-      {% unless post.draft %}
-      <li>
-        <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
+
+  <p>I am a robotics PhD student researching socially assistive robotics. I have previous degrees in nuclear engineering and robotics, and I spent 5 years at a nuclear company where I designed nuclear fuel, smart cranes, and robots for nuclear reactors.</p>
 </section>

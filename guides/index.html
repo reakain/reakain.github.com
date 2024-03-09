@@ -1,13 +1,13 @@
 ---
 layout: layout
-title: "Projects"
+title: "Guides"
 ---
 
 <section class="content">
   <h1>{{ page.title }}</h1>
   <ul class="listing">
     {% for category in site.categories %}
-  {% if category[0] == "projects" %}
+  {% if category[0] == "guides" %}
     {% for post in category[1] %}
       {% unless post.draft %}
       <li>
