@@ -7,7 +7,7 @@ title: "Projects"
   <h1>Projects</h1>
   <ul class="listing">
     {% for category in site.categories %}
-  {% if category[0] is "projects" %}
+  {% if category[0] == "projects" %}
     {% for post in category[1] %}
       {% unless post.draft %}
       <li>
